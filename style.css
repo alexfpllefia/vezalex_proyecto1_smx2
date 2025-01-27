@@ -7,12 +7,15 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color: rgb(0, 214, 96);
     padding: 3px;
     text-align: center;
 }
 
-header h1 {
+footer.{
+    font-family: "Patrick Hand", serif;
+    font-weight: 400;
+    font-style: normal;
     margin: 0;
 }
 
